@@ -8,7 +8,6 @@
 
 #import "ME365BaseTabBarViewController.h"
 #import "ZWYtabBar.h"
-#import "MENVbaseViewController.h"
 #import<CTMediator+ME365.h>
 @interface ME365BaseTabBarViewController ()<ZWYtabBarDelegate>
 @property(nonatomic,strong)NSArray *imageNormalArr;
